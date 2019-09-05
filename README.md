@@ -34,5 +34,5 @@
 }
 ```
 ## Example
-npm start
-localhost:3000/api/competitions
+    >npm start
+    >localhost:3000/api/competitions
