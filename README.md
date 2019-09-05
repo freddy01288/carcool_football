@@ -12,21 +12,24 @@
 
 ## Extra Endpoints
 - /teams (post)- Guarda un equipo
-    	{
-    		"id_competition": 2000,
-    		"name": "perú"
-    	}
+```json
+{
+	"id_competition": 2000,
+	"name": "perú"
+}
+```
 - /players (post)- Guarda un jugador
-    	{
-    		"name": "Paolo Guerrero",
-    		"position": "delantero",
-    		"number": 9
-    	}
+```json
+{
+	"name": "Paolo Guerrero",
+	"position": "delantero",
+	"number": 9
+}
+```
 - /teams/add_player (post) - Agrega un jugador a un equipo
-    	{
-    		"id_team": "5d6fff3b3809ff06d84bfb31",
-    		"id_player": "5d6ffe7f5953c411783c6adb"
-    	}
-
-
-
+```json
+{
+	"id_team": "5d6fff3b3809ff06d84bfb31",
+	"id_player": "5d6ffe7f5953c411783c6adb"
+}
+```
