@@ -33,3 +33,6 @@
 	"id_player": "5d6ffe7f5953c411783c6adb"
 }
 ```
+## Example
+npm start
+localhost:3000/api/competitions
