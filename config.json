@@ -1,0 +1,7 @@
+{
+    "PORT": 3000,
+    "TIMEOUT": 3000,
+    "DB_HOST": "localhost",
+    "DB_PORT": 27017,
+    "DB_NAME": "carcool-football"
+}
